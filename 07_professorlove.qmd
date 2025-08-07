@@ -1,0 +1,50 @@
+# Professor Love {#sec-professorlove}
+
+```{r Lovepic-fig, echo = FALSE, out.width = '30%'}
+knitr::include_graphics("images/Thomas_Love.png")
+```
+
+Thomas E. Love, Ph.D.
+
+Hi. I am Thomas E. Love, Ph.D. and I have at least three different jobs.
+
+- I am a Professor in the Departments of Medicine and Population & Quantitative Health Sciences at Case Western Reserve University. I teach three courses per year there (PQHS 431, 432 and 500) and also lead the Health Care Analytics track of the MS program in Biostatistics.
+- I direct the [Biostatistics and Data Science Division](https://www.metrohealth.org/population-health-research-institute/biostatistics-and-data-sciences) at the [Population Health Research Institute](https://www.metrohealth.org/population-health-research-institute) and at the Center for Health Care Research & Policy, which are jointly supported by The MetroHealth System and by CWRU.
+- For ten years, I was the (founding) Data Director for [Better Health Partnership](http://betterhealthpartnership.org/), an alliance of people who provide, pay for and receive care in Northeast Ohio. I now serve as Chief Data Scientist there.
+- I am a Fellow of the American Statistical Association, and am the 2025 Past Chair for its Council of Sections Governing Board, among other things.
+- I have won numerous awards for my teaching and my research, including the 2018 [John S. Diekhoff Award for Graduate Teaching](https://students.case.edu/traditions/awards/diekhoff/) from CWRU.
+- I have been teaching at CWRU since 1994, and have taught every manner of CWRU student over the years, especially students in biostatistics, medicine, and management.
+
+In research, I use statistical methods to look at questions in health policy and in particular the provision of health services. I mostly work with observational data, rather than data that emerge from randomized clinical trials, and I have a special interest in working with data from electronic health records.
+
+- For example, you may be interested in a [study in Health Affairs](http://content.healthaffairs.org/content/34/7/1121.abstract) showing the impact of a [Medicaid-like expansion plan on care and outcomes of poor patients in Cleveland](http://thedaily.case.edu/new-study-shows-prepared-safety-net-improves-care-saves-money-in-medicaid-expansion-population/).
+- Or you might be interested in our [New England Journal of Medicine study](http://www.nejm.org/doi/full/10.1056/NEJMsa1102519) of the effect of electronic health records on the care and outcomes of people with diabetes.
+- In 2011, [James O'Malley](https://tdi.dartmouth.edu/about/our-people/directory/james-omalley-phd) and I chaired the [Ninth International Conference on Health Policy Statistics](https://ww2.amstat.org/meetings/ichps/2011/index.cfm?fuseaction=main), here in Cleveland. Here's a [recap](https://link.springer.com/article/10.1007%2Fs10742-012-0096-8). 
+- I've also worked on many projects involving the use of propensity scores to make causal inferences from observational studies, particularly in heart failure.
+
+If you want to see a [pretty complete list of my publications](https://www.ncbi.nlm.nih.gov/myncbi/thomas.love.1/bibliography/public/), knock yourself out. 
+
+I hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation adviser was Paul Rosenbaum. I am married to a brilliant woman who is an attorney at Savant Systems, and we have two terrific sons, the older of which is starting the MS program in Applied Data Science at Carnegie Mellon University this month, while the younger is starting the law school at Fordham University this month, too. I live in Shaker Heights. I also sing and act occasionally in [community theater](https://github.com/THOMASELOVE/theater), and I am currently in rehearsals for a play that you'll hear about later this semester.
+
+## Email 
+
+- **Thomas dot Love at case dot edu** (for matters related to grades or individual concerns)
+- Professor Love is best reached via email in an emergency.
+
+## Offices
+
+- Wood WG-82J on the ground floor of the Wood building (Tuesday and Thursday afternoons)
+- Rammelkamp R-229A at MetroHealth Medical Center (Friday mornings)
+
+At other times, Professor Love works from his home in Shaker Heights. 
+
+Professor Love is available for the 10 minutes before and approximately 20 minutes after each class for drop-in discussions and otherwise by appointment (send email to schedule). 
+
+## Name, Pronouns, Social Media
+
+- Professor Love uses he/him/his pronouns, and identifies as male.
+    - Most students refer to him either as Professor Love or Doctor Love, and he prefers this in class.
+    - He prefers his given name to be written "Thomas" as opposed to "Tom".
+    - Most of his friends and colleagues call him "Tom". You are welcome to do so, outside of class time, if it makes you comfortable.
+- At Github, he is [THOMASELOVE](https://github.com/THOMASELOVE).
+    - The Github repository [for this syllabus is here](https://github.com/THOMASELOVE/431-syllabus-2025).

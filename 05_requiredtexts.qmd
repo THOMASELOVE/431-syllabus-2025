@@ -1,0 +1,59 @@
+# Required Texts {#sec-requiredtexts}
+
+## Course Notes
+
+Professor Love maintains a [Course Text](https://thomaselove.github.io/431-book/) entitled [Foundations of Applied Statistics and R](https://thomaselove.github.io/431-book/). Professor Love has taken on a substantial revision to the previous version this Summer, so the book will appear in fits and starts through the semester.
+
+Although this Text shares some of the features of a textbook, it is by no means comprehensive. The main purpose is to give 431 students a set of common materials on which to draw during the course, providing a series of examples using R to work through issues that are likely to come up during the semester, and in later work. 
+
+In addition, **slides** and (occasional) recordings from Professor Love's lectures, plus other in-class materials will be posted for your use throughout the semester.
+
+Once class begins, you'll be able to access all materials (including the Course Notes) through the main course website at https://thomaselove.github.io/431-2026/.
+
+## Buy This Book!
+
+During the course, we will read David Spiegelhalter's **The Art of Statistics**, which was first published by Penguin in March 2019 (and February 2020) in the UK and then by Basic Books in the US in September 2019. You can purchase any of the available versions (hard-cover, paperback or e-reader) online or in your local bookstore for about $20.
+
+- [Dr. Spiegelhalter's website](http://www.statslab.cam.ac.uk/~david/) has lots of useful information.
+- The [book's website](https://dspiegel29.github.io/ArtofStatistics/) contains R code, corrections and other materials.
+- You are welcome to read this book before class starts, if you'd like to get a jump on things, but that's not necessary: a reading plan is on the [Course Calendar](https://thomaselove.github.io/431-2026/calendar.html).
+
+## Other Books to Download
+
+There are three additional **free** books that you will definitely need to obtain during the semester and may be interested in looking at before class begins. Simply visit the links below.
+
+1. [R for Data Science](https://r4ds.hadley.nz/) (2nd edition) by Hadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemund.
+  - Solutions to the exercises in R4DS can be found [here](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/) and may be very helpful to you.
+2. [R Graphics Cookbook](https://r-graphics.org/) (2nd edition) by Winston Chang.
+3. [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) by Frank E. Harrell Jr. 
+  - A related set of YouTube videos can be found [here](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA).
+
+There are many other free R books available online, which may be helpful to you. Here are a few that some students in past versions of this course have liked.
+
+- [Introduction to Modern Statistics, 2nd edition](https://openintro-ims.netlify.app/) by Mine Çetinkaya-Rundel and Johanna Hardin.
+- [Introduction to Data Science: Data Analysis and Prediction Algorithms with R](http://rafalab.dfci.harvard.edu/dsbook/) by Rafael A. Irizarry
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
+- [Data Visualization: A practical introduction](https://socviz.co/) by Kieran Healy
+
+## Key Articles and Posts
+
+While I will recommend dozens, perhaps hundreds of articles, blog posts and the like to you over the course of the year, these are especially important in 431.
+
+1. Several of the guides prepared by Jeff Leek and his group, including:
+    + [Finally, a Formula for Decoding Health News](https://fivethirtyeight.com/features/a-formula-for-decoding-health-news/), from fivethirtyeight.com
+    + [Reading academic (scientific) papers](https://github.com/jtleek/readingpapers),
+    + [Writing your first academic paper](https://github.com/jtleek/firstpaper)
+    + [Write papers like a modern scientist](https://simplystatistics.org/posts/2016-04-21-writing/)
+    + [How to Share Data for Collaboration](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375987) by Shannon E. Ellis and Jeffrey T. Leek in *The American Statistician*, 2018 Special Issue on Data Science, or you can [read the PeerJ preprint version here](https://peerj.com/preprints/3139/).
+2. [Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989) by Karl W. Broman and Kara H. Woo in The American Statistician, 2018 Special Issue on Data Science, or you can [read the PeerJ preprint version](https://peerj.com/preprints/3183/).
+    + The Ellis/Leek and Broman/Woo papers are part of the [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/) collection, which may be of interest.
+3. [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/) at tidyverse.org from Jenny Bryan.
+4. From the Ten Simple Rules series at PLOS Computational Biology:
+    + [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961) by Kass RE et al. 2016
+    + [Ten Simple Rules for Graduate Students](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229) by Gu J Bourne PE 2007
+    + [Ten Simple Rules for Better Figures](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) by Rougier NP Droettboom M Bourne PE 2014
+    + [Ten Simple Rules for Creating a Good Data Management Plan](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525) by Michener WK 2015
+5. [Statistical Inference in the 21st Century: A World Beyond *p* < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) from 2019 in *The American Statistician*
+6. The American Statistical Association's 2016 [Statement on p-Values](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108): Context, Process and Purpose.
+
+Professor Love's class-specific READMEs will provide links to these articles and other recommended readings as the semester goes on.

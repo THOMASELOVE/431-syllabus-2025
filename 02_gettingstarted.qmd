@@ -1,0 +1,19 @@
+# Getting Started
+
+Your first few steps in this course are to:
+
+1. Register and enroll via the [CWRU Student Information System (SIS)](https://sis.case.edu/).
+    - Section 100 of PQHS 431, CRSP 431 and MPHP 431 are identical. Be sure to register for PQHS 431 unless you are part of the Clinical Research Scholars Program (in which case, register for CRSP 431) or you are part of the MPH program (in which case, register for MPHP 431.)
+2. Review the [main course website](https://thomaselove.github.io/431-2025), and be sure to visit the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
+3. Skim through each chapter of the Course Syllabus (this document.)
+4. Obtain the texts required for the course. The book you need to purchase is David Spiegelhalter's *The Art of Statistics: How to Learn from Data*, originally published in 2020 and available at all major book retailers for around \$20. All other required texts are free. See @sec-requiredtexts for details on how to get the other required texts.
+5. Complete the [Welcome to 431 survey](https://bit.ly/431-2025-welcome) - see below for details.
+6. Get started installing the software you'll need for the course. See @sec-requiredsoftware and [the Software link on our main website](https://thomaselove.github.io/431-2025/software.html) for more details.
+
+## Welcome to 431 Survey 
+
+Please fill out the survey at <https://bit.ly/431-2025-welcome> to help us get to know you a little better.
+
+- Note that you must **log into Google via your CWRU account** in order to access the survey.
+- The survey should take 15-20 minutes to complete, and we encourage you to complete it as soon as you can. The formal deadline for completing this form is found on the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
+  

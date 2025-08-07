@@ -1,0 +1,36 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "431 Fall 2025 Syllabus"
+  author: "Thomas E. Love"
+  date: last-modified
+  search: true
+  downloads: [pdf]
+  chapters:
+    - index.qmd
+    - 02_gettingstarted.qmd
+    - 03_website.qmd
+    - 04_thecourse.qmd
+    - 05_requiredtexts.qmd
+    - 06_requiredsoftware.qmd
+    - 07_professorlove.qmd
+    - 08_teachingassistants.qmd
+    - 09_gettinghelp.qmd
+    - 10_assignments.qmd
+    - 11_grading.qmd
+    - 12_policies.qmd
+    - 13_movies.qmd
+    - 14_advice.qmd
+    - 15_writing.qmd
+
+format:
+  html:
+    theme:
+      light: lightly
+      dark: darkly
+    date-format: iso
+  pdf:
+    documentclass: scrreport
+    date-format: iso

@@ -1,0 +1,69 @@
+# Course Description
+
+PQHS 431 (cross-listed as CRSP 431 and MPHP 431) is the first half of a two-semester sequence (with 432) focused on modern data analysis and advanced statistical modeling, with a practical bent and as little theory as possible. We emphasize the key roles of thinking hard, and well, about design and analysis in research. 
+
+The course is formally titled *Statistical Methods in Biological & Medical Sciences, Part 1.* A more accurate title is **Data Science for Biological, Medical or Health Research**.
+
+We'll learn about managing and visualizing data, building models and making predictions, and other data science activities. This highly applied course focuses on modern tools for learning from data. We'll learn a lot of R, and we'll use RStudio and Quarto as tools to help make R work better, and help perform our research in rigorous and replicable ways.
+
+## Course Objectives
+
+During the 431-432 sequence, students will:
+
+1. Use modern data science tools to import, tidy/manage, explore (through transformation, visualization and modeling) and communicate about data.
+2. Think hard and well about rigorous design and analysis in scientific research.
+3. Gain sufficient background in the practical issues regarding linear and generalized linear models to give you a starting place for meaningful applied work, particularly in terms of making comparisons to address general types of statistical and analytic questions (exploratory, predictive, inferential, and causal, in particular.)
+4. Learn about the importance of replicable research, and develop facility and practice in open source tools for doing it.
+5. Complete a series of assignments (labs, projects and quizzes) designed to help you demonstrate what you've learned. 
+6. Using R and RStudio to make all of the things above happen; with particular emphasis on doing replicable research and using [Quarto](https://quarto.org/) to document the work in a replicable way.
+
+This is **NOT** a course in mathematical statistics or statistical inference. It's far more applied than that.
+
+## Key Topics in 431-432
+
+1. Exploratory Data Analysis: "All graphs are comparisons" including data exploration, statistical graphics and more general visualization of information.
+2. Placing biological, medical and health research questions into a statistical framework.
+3. Study Development - making choices in designing and executing the collection and aggregation of data.
+4. Data Handling - including important issues in importing, tidying and transforming data, as well as methods for dealing with missing data, including imputation.
+5. Statistical Comparisons: "All of statistics are comparisons" - including methods for discrete and continuous variables: intervals, assumptions, some thoughts on statistical power, and the bootstrap, design of visualizations and models for rates, proportions and contingency tables.
+6. The proper and rigorous use of multi-predictor models for continuous and discrete data, including...
+    - Fitting, evaluating, and interpreting linear and generalized linear models with both classical (frequentist) and Bayesian approaches.
+    - Prediction and validation.
+    - Critical role of graphics, including diagnostics and residual analysis.
+    - Model choice, including variable selection, shrinkage and model uncertainty.
+    - Dealing with categorical predictors and interactions meaningfully.
+    - Adjusting for covariates meaningfully.
+7. Using R and RStudio to make all of the things above happen; with particular emphasis on doing replicable research and using [Quarto](https://quarto.org/) to document the work in a replicable way.
+
+## Prerequisites and Intended Student Population
+
+What do we expect you to know already before you start the course? **Not much**. 
+
+Useful prior experience includes training/experience in statistics, coding/programming and biology/biomedical science. We expect most people will have some experience in one or two of these areas, but very few will have all three.
+
+- Some students have lots of prior training in statistics. But there are many students in the class with no statistical training at all that they use regularly. We assume only that everyone knows what an average is, and has some sense of why statistics might be useful to them in their chosen field.  
+- Some students have lots of prior coding and programming experience, including experience with R and/or Quarto. Some have never written a line of code in their life.  We assume only that everyone is willing to learn how to do modern work with data, and that means writing computer code, but that some people will be starting from nothing.
+- Some students have lots of prior experience with biological and biomedical science, and know a lot of useful things in those areas which relate directly to our work. Others have zero experience in this area, and will learn a lot from their colleagues. We assume only that everyone is willing to learn, and to put in some effort to do so.
+
+People succeed in this course with a wide range of backgrounds and a common interest in using data effectively in research related to biology, health or medicine. There will be multiple people in the class who are years away from their last statistics class. We expect the majority of students will have no prior experience using R, or any meaningful recollection of using statistical software. 
+
+The pace can be brisk at times, but all CWRU students who feel up to it are welcome, regardless of their field of study or prior experience. Section 100 (Professor Love's section) is specifically geared towards students in programs under the auspices of the Department of Population & Quantitative Health Sciences, as well as students who intend to continue on and take 432 this Spring. Section 101 (with Professor Zhang) is more appropriate for most other students.
+
+## Motivations for our Approach
+
+Professor Love has a lot of thoughts on this issue and you'll hear about them through the semester, but you may prefer to hear from other people on the subject. So here are a few references that guided our thinking in developing the course.
+
+- [A Guide to Teaching Data Science](https://arxiv.org/abs/1612.07140) by Stephanie C. Hicks, Rafael A. Irizarry (pdf)
+    - ... our (case-study) approach (in a graduate-level, introductory data science course) teaches students three key skills needed to succeed in data science, which we refer to as creating, connecting, and computing.
+- [Data Visualization on Day One: Bringing Big Ideas into Intro Stats Early and Often](https://arxiv.org/abs/1705.08544) by Xiaofei Wang, Cynthia Rush, Nicholas Jon Horton (pdf)
+- [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734) by David Donoho in the *Journal of Computational and Graphical Statistics*, 2017.
+- [Why You Should Master R (Even if it might eventually become obsolete)](https://www.r-bloggers.com/2016/12/why-you-should-master-r-even-if-it-might-eventually-become-obsolete/) blog post from Sharp Sight, 2016-12-27
+- [Teaching R to New Users - From tapply to the Tidyverse](https://www.youtube.com/watch?v=5033jBHFiHE&feature=youtu.be), A YouTube video by Roger D. Peng
+- [Teach the Tidyverse to Beginners](http://varianceexplained.org/r/teach-tidyverse/) and a [related post on teaching `ggplot2`, specifically](http://varianceexplained.org/r/teach_ggplot2_to_beginners/) from David Robinson. There is also [a related video from rstudio::conf 2018](https://rstudio.com/resources/rstudioconf-2018/teach-the-tidyverse-to-beginners/).
+- Video from Hadley Wickham, [You can't do data science in a GUI](https://www.youtube.com/watch?v=PURtmHwk_-0), 2018 in Chicago.
+
+## Is 432 Required?
+
+> If I take 431 this semester, do I have to take 432 in the Spring?
+
+It is the natural thing to do, and I assume that almost all of you will do so. The 431 course is part 1 of a two-semester sequence. Frankly, 432 contains some of the most interesting material and is generally regarded by students who take both as the more entertaining course. Every year, some students take only 431, though. The decision is up to you. The 432 course assumes you have completed 431, whether with me or another instructor.

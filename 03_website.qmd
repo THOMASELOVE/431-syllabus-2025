@@ -1,0 +1,23 @@
+# Course Web Site
+
+The main course web site is found at [this link](https://thomaselove.github.io/431-2025/). 
+
+By the first class, this page will house links to everything we will provide, including:
+
+- The [431 Syllabus](https://thomaselove.github.io/431-syllabus-2025/) (this document)
+- Professor Love's [Course Text](https://thomaselove.github.io/431-book/), the main textbook for the course
+- The [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html), which is the final word for all deadlines and assignments
+    - The [Calendar](https://thomaselove.github.io/431-2025/calendar.html) also links to materials for each class, including presentation slides and announcements
+- [Data (and Code)](https://github.com/THOMASELOVE/431-data) for the course's assignments, presentations, and notes
+- Our [Canvas page](https://canvas.case.edu) for turning in assignments and downloading recordings. (Most classes will be recorded.)
+
+## Contact Information
+
+Our main website at <https://thomaselove.github.io/431-2025/> includes a [Contact Us page](https://thomaselove.github.io/431-2025/contact.html) which provides detailed information on the best ways to get help from Professor Love and the Teaching Assistants during the semester.
+
+- The course Teaching Assistants will hold regular office hours, starting in early September and running through early December, over Zoom, and the schedule for these sessions will be found on the [Contact Us page](https://thomaselove.github.io/431-2025/contact.html) and the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
+  - Once the semester begins, questions about course materials are best asked in class, or in TA Office Hours, over Zoom.
+- Professor Love will arrive 10 minutes before each class, and stay afterwards, as well, to discuss any student questions and concerns.
+  - Professor Love's office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically WG-82J. Email him if you need an appointment, either in person or via Zoom.
+- If you have any unique concerns about the course, need special accommodations or have any other issues you want to discuss with Professor Love specifically, please email him directly (**Thomas dot Love at case dot edu**) and he'll respond as quickly as possible.
+
