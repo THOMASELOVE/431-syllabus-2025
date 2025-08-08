@@ -24,7 +24,7 @@ In research, I use statistical methods to look at questions in health policy and
 
 If you want to see a [pretty complete list of my publications](https://www.ncbi.nlm.nih.gov/myncbi/thomas.love.1/bibliography/public/), knock yourself out. 
 
-I hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation adviser was Paul Rosenbaum. I am married to a brilliant woman who is an attorney at Savant Systems, and we have two terrific sons, the older of which is starting the MS program in Applied Data Science at Carnegie Mellon University this month, while the younger is starting the law school at Fordham University this month, too. I live in Shaker Heights. I also sing and act occasionally in [community theater](https://github.com/THOMASELOVE/theater), and I am currently in rehearsals for a play that you'll hear about later this semester.
+I hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation adviser was Paul Rosenbaum. I am married to a brilliant woman who is an attorney at Savant Systems, and we have two terrific sons, the older of which recently completed the MS in Data Analytics for Science at Carnegie Mellon University, while the younger is starting his second year of law school at Fordham University. I live in Shaker Heights. I also sing and act occasionally in [community theater](https://github.com/THOMASELOVE/theater).
 
 ## Email 
 
