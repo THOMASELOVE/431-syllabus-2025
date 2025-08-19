@@ -10,11 +10,11 @@ In general, we don't have a way to diagnose your problem with R, RStudio or Quar
 
 You are strongly encouraged to visit TAs during office hours that are convenient for you, whenever you need help with the course. This is the best way to get one-on-one help, or try out a new idea. 
 
-TA office hours are held via Zoom, and will begin on **Wednesday 2025-09-03** and will continue through **Tuesday 2025-12-11**. Our Shared Google Drive (431 Fall 2025 Dr Love and Students) will display Zoom links for all TA office hours in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
+TA office hours are held via Zoom, and will begin on **Wednesday 2025-09-03** and will continue through **Tuesday 2025-12-09**. Our Shared Google Drive (431 Fall 2025 Dr Love and Students) will display Zoom links for all TA office hours in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
 
 - The schedule for TA office hours will appear on the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html), and on our [Contact Us](https://thomaselove.github.io/431-2025/contact.html) page.
 - Office Hours are held for your benefit. Please visit the TAs, especially if you have questions about how to do things in R, or about the content of the class slides or course notes. They're volunteering their time to help you, and most of them have been in your shoes in previous years. They want to help you!
-- More information on the TAs will be found in @sec-teachingassistants.
+- More information on the TAs is found in @sec-teachingassistants.
 
 ## How We'll Use Canvas
 
