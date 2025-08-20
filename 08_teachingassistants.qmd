@@ -8,7 +8,7 @@ Visit Getting Help (@sec-gettinghelp) of this Syllabus for more details.
 
 ## TA office hours
 
-TTA office hours are held via Zoom, and will begin on **Wednesday 2025-09-03** and will continue through **Tuesday 2025-12-09**. The weekly schedule will appear on our [Contact Us page](https://thomaselove.github.io/431-2025/contact.html) as well as our [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
+TTA office hours are held via Zoom, and will begin on **Wednesday 2025-09-03** and will continue through **Tuesday 2025-12-09**. The weekly schedule appears on our [Contact Us page](https://thomaselove.github.io/431-2025/contact.html) as well as our [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
 
 Our Shared Google Drive (431 Fall 2025 Dr Love and Students) will display Zoom links for all TA office hours in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
 
@@ -72,7 +72,9 @@ Marie Masotya, MPH, is a PhD student in the Clinical Translational Science progr
 
 ### Morgan McLoughlin {#sec-morgan}
 
-Details to come.
+![Morgan McLoughlin](images/morgan_mcLoughlin.png){width=40%}
+
+Morgan McLoughlin is a third-year student in the Clinical Psychology PhD program at CWRU, studying parent-child relationships, parenting interventions, and patient experiences and preferences in mental health treatment. Originally from Berkeley and Los Angeles, California, he held research positions at UC Irvine and the University of Pittsburgh before moving to Cleveland two years ago. He enjoys going to museums and theater performances around the city as well as visiting hiking trails and karaoke bars. At CWRU, he also helps run the Tea and Chocolate club (Instagram @cwru_tea_chocolate), a campus group organizing monthly social events for graduate and professional students. As a former K-12 educator, he enjoys teaching and mentoring and is excited to serve as a TA for the 431 course. 
 
 ### Ria Tilve {#sec-ria}
 
