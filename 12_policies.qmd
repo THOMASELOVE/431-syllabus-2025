@@ -42,7 +42,11 @@ We aim to have video recordings available on [Canvas](https://canvas.case.edu/) 
 
 > [Click here to obtain the PDF file describing Academic Integrity for Graduate Courses](https://case.edu/gradstudies/sites/default/files/2018-04/SGS-Academic-Integrity-Policies-and-Rules.pdf)
 
-### AI (Artificial Intelligence)
+Here is the official policy of the University on Academic Integrity.
+
+> Any violation of the University’s Code of Ethics will not be tolerated. All forms of academic dishonesty including cheating, plagiarism, misrepresentation, and obstruction are violations of academic integrity standards and will result in a minimum penalty of receiving a zero for the assignment, the potential for failing the entire course. Cheating includes copying from another's work, falsifying problem solutions or laboratory reports, or using unauthorized sources, notes or computer programs. Plagiarism includes the presentation, without proper attribution, of another's words or ideas from printed or electronic sources. It is also plagiarism to submit, without the instructor's consent, an assignment in one class previously submitted in another. Misrepresentation includes forgery of official academic documents, the presentation of altered or falsified documents or testimony to a university office or official, taking an exam for another student, or lying about personal circumstances to postpone tests or assignments. Obstruction occurs when a student engages in unreasonable conduct that interferes with another's ability to conduct scholarly activity. Destroying a student's computer file, stealing a student's notebook, and stealing a book on reserve in the library are examples of obstruction. In addition, the incident will be reported to the Dean of Undergraduate Studies and Academic Review Board for undergraduates or Senior Associate Dean of Graduate Studies, for Graduate Students. 
+
+### AI (Artificial Intelligence) {#sec-ai}
 
 > Students at Case Western Reserve University are expected to uphold the highest ethical standards of academic conduct. Academic integrity addresses all forms of academic dishonesty, including cheating, plagiarism, misrepresentation, obstruction, and submitting without permission work to one course that was completed for another course. Please review the complete academic integrity policy for additional information, including an overview of the processes & procedures for reporting academic misconduct.
 
@@ -75,16 +79,5 @@ Here is the official University policy:
 Professor Love adds that, in this class, the use of a laptop or other device is welcomed, and even encouraged, for taking notes on our slides, or following along with the presentation, or trying out ideas in R, but it is inappropriate for you to use such a machine for activities unrelated to the class during our time together. Silence your phone during class. The temptation to look at your phone or Facebook or email during class is nearly irresistible. Resist anyway, if only to avoid distracting your instructor and your fellow students. 
 
 Thank you.
-
-## Academic Integrity
-
-Here is the official policy of the University on Academic Integrity.
-
-> Any violation of the University’s Code of Ethics will not be tolerated. All forms of academic dishonesty including cheating, plagiarism, misrepresentation, and obstruction are violations of academic integrity standards and will result in a minimum penalty of receiving a zero for the assignment, the potential for failing the entire course. Cheating includes copying from another's work, falsifying problem solutions or laboratory reports, or using unauthorized sources, notes or computer programs. Plagiarism includes the presentation, without proper attribution, of another's words or ideas from printed or electronic sources. It is also plagiarism to submit, without the instructor's consent, an assignment in one class previously submitted in another. Misrepresentation includes forgery of official academic documents, the presentation of altered or falsified documents or testimony to a university office or official, taking an exam for another student, or lying about personal circumstances to postpone tests or assignments. Obstruction occurs when a student engages in unreasonable conduct that interferes with another's ability to conduct scholarly activity. Destroying a student's computer file, stealing a student's notebook, and stealing a book on reserve in the library are examples of obstruction. In addition, the incident will be reported to the Dean of Undergraduate Studies and Academic Review Board for undergraduates or Senior Associate Dean of Graduate Studies, for Graduate Students. 
-
-The CWRU Statement of Ethics for graduate students can be found here: 
-http://case.edu/gradstudies/about-the-school/policies-procedures/.
-
-The University's [Academic Integrity Policy](https://case.edu/studentlife/ugadvisingsupport/academic-policies/academic-integrity) is also worth reading.
 
 
