@@ -25,19 +25,46 @@ We aim to have video recordings available on [Canvas](https://canvas.case.edu/) 
 - "Live" Zoom attendance can be a problem, in that remote students will not be able to interact with the class.
 - Technical problems may occur during the semester with the recordings.
 - You should assume that anything you say in class will be recorded.
-  
-## Diversity and Inclusion
 
-It is our intent that all students regardless of their background and perspective be well-served by this class. Further, we intend to present material whose content is respectful of diversity (gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture) and deliver it in a way that respects these differences as well. We expect that all students, instructors and guests will help foster an atmosphere of respect, trust and safety in the classroom.  
+## University Required Language
 
-If you have suggestions for how to make the class content or environment more inclusive, or have specific incidents to report, please reach out to Professor Love directly. If you are not comfortable reaching out to him, please feel encouraged to reach out to someone else, such as the School of Medicine Graduate Education Office (som-geo@case.edu) or the Office of Inclusion, Diversity and Equal Opportunity (OIDEO) (oideo@case.edu). More information on University policy and resources are available on OIDEO’s website at <https://case.edu/diversity/>.
+### University Enrichment & Engagement
 
+> It is the intent that all students regardless of their background and perspective be well-served by this class.  Further, we intend to present material whose content is respectful and deliver it in a respectful manner.  We expect that all students, instructors and guests will help foster an atmosphere of respect, trust and safety in the classroom. 
+ 
+> If you have suggestions for how to make the class content or environment more respectful, or have specific incidents to report, please reach out to the instructor.  If you are not comfortable reaching out to the instructor, feel free to reach out to someone else, such as the School of Medicine Graduate Education Office (`som-geo@case.edu`) or the [Office of Campus Enrichment and Engagement](https://case.edu/enrichment-engagement/). More information on University policy and resources is available [on their website](https://case.edu/enrichment-engagement/).
+ 
+### Disability Accommodations
 
-## Disability Resources
+> In accordance with federal law, if you have a documented disability, you may be eligible to request accommodations from Disability Resources. In order to be considered for accommodations you must first register with the Disability Resources office. Please contact their office to register at 216.368.5230 or [follow this link to get more information on how to begin the process](https://case.edu/studentlife/disability/getting-started). Please keep in mind that accommodations are not retroactive.
+ 
+### Academic Integrity 
 
-> In accordance with federal law, if you have a documented disability, you may be eligible to request accommodations from Disability Resources. In order to be considered for accommodations you must first register with the Disability Resources office. Please contact their office to register at 216.368.5230 or visit their website at <https://case.edu/studentlife/disability/> to get more information on how to begin the process. 
+> [Click here to obtain the PDF file describing Academic Integrity for Graduate Courses](https://case.edu/gradstudies/sites/default/files/2018-04/SGS-Academic-Integrity-Policies-and-Rules.pdf)
 
-Once you have registered with Disability Resources, they will contact Professor Love to discuss any necessary arrangements. Please feel encouraged to get in touch with Professor Love directly to discuss any specific concerns you have.
+### AI (Artificial Intelligence)
+
+> Students at Case Western Reserve University are expected to uphold the highest ethical standards of academic conduct. Academic integrity addresses all forms of academic dishonesty, including cheating, plagiarism, misrepresentation, obstruction, and submitting without permission work to one course that was completed for another course. Please review the complete academic integrity policy for additional information, including an overview of the processes & procedures for reporting academic misconduct.
+
+> In addition, we recommend that faculty clearly describe their course-specific expectations for students’ use of AI tools.
+
+Note that I have done this on an assignment-level basis.
+
+> Students are encouraged to consult with the instructor if they have any questions or concerns regarding the appropriate use of common/basic AI in this course.
+
+> Students are expected to use AI responsibly and critically evaluate the outputs of AI tools, ensuring transparency, accountability, and ethical considerations in their utilization.
+
+> Students can use basic AI tools for specific tasks approved by the instructor, such as grammar checking or citation formatting.
+> Guidelines for AI usage will be provided to ensure alignment with course objectives and academic standards.
+
+### Equity and Title IX
+
+> Title IX of Education Amendments of 1972 (“Title IX”) prohibits discrimination based on sex, including sexual harassment, in education programs that receive federal funding. This includes providing support to anyone impacted by sex discrimination or sexual harassment.  The Title IX Coordinator is responsible for implementing Title IX and is in CWRU’s Office of Equity. The Title IX Coordinator is also responsible for making sure that the procedures in CWRU's policy prohibiting sex discrimination and sexual harassment are followed and all persons are treated fairly and with respect.
+Members of the CWRU community and others should direct questions about the application of Title IX to situations impacting the CWRU community, and its educational programs and activities, to the Title IX Coordinator.  Information on the Office of Equity and Title IX is located [on the Office of Equity webpage](https://case.edu/equity/).
+ 
+### CWRU Public Safety
+
+> The Case Western Reserve University Division of Public Safety provides quality service, safety, and a positive educational experience for the campus community. Members of the CWRU community – students, faculty, staff, and guests – are encouraged to report all criminal actions, emergencies, or other public safety related incidents to CWRU Division of Public Safety. For an emergency, call 216-368-3333. For a non-emergency, call 216-368-3300. Members of the community are encouraged to [download the Spartan Safe app](https://case.edu/publicsafety/services/spartan-safe-app) which offers easy access to critical resources and safety tools.
 
 ## Laptop and cell phone use
 
@@ -60,23 +87,4 @@ http://case.edu/gradstudies/about-the-school/policies-procedures/.
 
 The University's [Academic Integrity Policy](https://case.edu/studentlife/ugadvisingsupport/academic-policies/academic-integrity) is also worth reading.
 
-## Plagiarism
-
-> Professor Love, and the faculty of the Department of Population & Quantitative Health Sciences expect and require original writing for all assignments given. Submitting plagiarized work for an academic requirement is a violation of the academic integrity standards set forth by the University. Plagiarism is the representation of another's work or ideas as one's own; it includes the unacknowledged, word-for-word use and/or paraphrasing of another person's work, and/or the inappropriate unacknowledged use of another person's ideas. Submitting substantially the same work to satisfy requirements for one course that has been submitted in satisfaction of requirements for another course, without permission of the instructor of the course for which the work is being submitted, is also prohibited.
-
-If you have any questions about this policy as it applies to 431, please direct them to Professor Love.
-
-## Use of AI {#sec-ai}
-
-The use of AI or Large Language Models in addressing the **Lab** assignments in this class (even after some effort at human clean up) should in most cases lead to "C" level work. If you are happy receiving a "C" on a Lab assignment, go ahead. Remember, though, that our Academic Integrity Policy prohibits submitting AI-generated text as one’s own, just as it prohibits claiming authorship for text that was originally produced by another person.
-
-For **Quizzes** and **Projects**, however, you must obtain written permission from Dr. Love **before** using AI composition software (such as ChatGPT), and this permission is not something I will typically grant. Using these tools without my permission puts your academic integrity at risk. Intellectual honesty is central to the academic experience at CWRU. 
-
-More on AI and Academic Writing can be found at <https://case.edu/artsci/writing/resources/ai-academic-writing>
-
-## University Resources / Student Support
-
-Case Western Reserve University has a wide range of student support resources on campus. These resources can assist students both in the classroom and outside of it. CWRU offers these resources to enrich and enhance each student's academic experience and to create an environment that encourages personal growth and development. The Department of Population and Quantitative Health Sciences provides a detailed list [on its website in the Resources section](https://case.edu/medicine/pqhs/resources/campus-resources). Please take advantage of these resources.
-
-In particular, visit <https://case.edu/studentsuccess/academic-resources> for links to various programs and opportunities to help you learn more effectively. In particular, students needing some help with English, or writing skills will find multiple resources that have proven very helpful in the past.
 

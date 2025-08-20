@@ -8,7 +8,9 @@ Visit Getting Help (@sec-gettinghelp) of this Syllabus for more details.
 
 ## TA office hours
 
-TTA office hours are held via Zoom, and will begin on **Wednesday 2025-09-03** and will continue through **Tuesday 2025-12-09**. Our Shared Google Drive (431 Fall 2025 Dr Love and Students) will display Zoom links for all TA office hours in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
+TTA office hours are held via Zoom, and will begin on **Wednesday 2025-09-03** and will continue through **Tuesday 2025-12-09**. The weekly schedule will appear on our [Contact Us page](https://thomaselove.github.io/431-2025/contact.html) as well as our [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
+
+Our Shared Google Drive (431 Fall 2025 Dr Love and Students) will display Zoom links for all TA office hours in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
 
 - Professor Love will also hold “drop-in hours” for 10 minutes before and for 30 minutes after each class on Tuesdays and Thursdays.
 - As noted on our [Calendar](https://thomaselove.github.io/431-2025/calendar.html), TA Office hours are canceled on 2025-10-20 and 2025-10-21 (Fall Break) and from 2025-11-22 through 2025-11-28 (Thanksgiving)
@@ -66,7 +68,7 @@ Clinical Translational Science at the Department of Quantitative and Population 
 
 ![Marie Masotya](images/Marie_Masotya.png){width=40%}
 
-Details to come.
+Marie Masotya, MPH, is a PhD student in the Clinical Translational Science program. She is Senior Research Coordinator at University Hospitals (UH) Rainbow Center for Child Health and Policy where she manages research, quality and community-based projects. She represents UH Rainbow on several multi-sectoral community partnerships focused on child health and health equity. These include Better Health Partnership, Lead Safe Cleveland Coalition, and the Community-Based Participatory Research Network. Marie took full advantage of TA support in Fall 2022 when she took 431. She looks forward to returning that support to others this semester. When not doing research, you will find her enjoying live theater, music, and adventures with her spouse and 3 children.
 
 ### Morgan McLoughlin {#sec-morgan}
 
@@ -87,9 +89,12 @@ Sarah Albalawi is a general dentist who is currently pursuing a Master of Public
 
 ### Tatchaporn Ongphichetmetha {#sec-tatchaporn}
 
-Details to come.
+![Tatchaporn Ongphichetmetha](images/tatchaporn.png){width=40%}
+
+Tatchaporn Ongphichetmetha is a Ph.D. student in Clinical Translational Science at CWRU and a research fellow at the Cleveland Clinic Mellen Center for Multiple Sclerosis. Her research interests include autoimmune neurological disorders and multiple sclerosis. She completed her medical degree and neurology training in Thailand. During the 2024-2025 academic year, Tatchaporn took 431 and 432, and she is now applying those skills to her own research projects. Outside of her studies, she enjoys spending time with her family, traveling, and baking.
 
 ### Walaa Alshaia {#sec-walaa}
 
-Details to come.
+![Wala'a Alshaia](images/walaa_alshaia.png){width=40%}
 
+Wala’a Alshaia is a PhD student in the Clinical Translational Science program. She earned her undergraduate degree in Clinical Nutrition from Imam Abdulrahman bin Faisal University and a Master of Science in Human Nutrition from Columbia University. Her current research focuses on the dynamic interplay between modifiable lifestyle factors and cancer risk in individuals with inherited genetic predispositions. Wala'a remembers the impact of TA support when she was a student in 431 in Fall 2023 and is excited to offer that same guidance this semester. Beyond her academic work, she enjoys practicing Arabic calligraphy, brewing coffee with a good friend, and embracing new adventures.
