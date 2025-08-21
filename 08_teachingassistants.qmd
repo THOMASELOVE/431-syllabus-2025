@@ -42,7 +42,9 @@ Monika Strah is a Ph.D. candidate in Clinical Translational Science and a gradua
 
 ### Anika Krishna {#sec-anika}
 
-Photo and information to come.
+![Anika Krishna](images/Anika_Krishna.png){width=40%}
+
+Anika is a recent graduate of the M.S. Biostatistics program. She also received her Master's in Public Health and B.A. in Anthropology from CWRU in 2024. Her research interests are in mental health, social epidemiology, and health equity. In her free time, she likes to cook, spend time with her dog, workout, and go to concerts and shows.
 
 ### Carly DaCosta {#sec-carly}
 
