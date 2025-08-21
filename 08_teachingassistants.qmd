@@ -48,7 +48,9 @@ Anika is a recent graduate of the M.S. Biostatistics program. She also received 
 
 ### Carly DaCosta {#sec-carly}
 
-Photo and information to come.
+![Carly DaCosta](images/Carly_DaCosta.png){width=40%}
+
+Carly is a PhD student in the Epidemiology and Biostatistics program in the Department of Population and Quantitative Health Sciences. She moved to Cleveland two years ago to join Case Western’s Postbaccalaureate Research Education Program (CasePREP), where she conducted a computational research project exploring the genetic components of postpartum depression in African American women. Originally from California, Carly earned her Bachelor’s degree at San Diego State University before relocating to Ohio. Outside of her academic work, she enjoys baking, spending time with her cat Toby, and competing in Olympic Weightlifting.
 
 ### Katherine Papahadjopoulos {#sec-katherine}
 
