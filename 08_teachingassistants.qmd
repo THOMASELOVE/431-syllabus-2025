@@ -24,6 +24,7 @@ TA Name | For more, visit | Current Roles and CWRU Experiences
 Monika Strah | @sec-monika | PhD candidate, Clinical Translational Science
 Anika Krishna | @sec-anika | MS graduate, Epidemiology & Biostatistics
 Carly DaCosta | @sec-carly | PhD Candidate, Epidemiology & Biostatistics
+Hala Nas | @sec-hala | MS graduate, Pulmonary/Critical Care MD, Cleveland Clinic
 Katherine Papahadjopoulos | @sec-katherine | MPH graduate, Research Coordinator, Cleveland Clinic
 Kathryn Menta | @sec-kathryn | PhD Candidate, Epidemiology & Biostatistics
 Mahsa Sheikh | @sec-mahsa | PhD candidate, Clinical Translational Science
@@ -51,6 +52,12 @@ Anika is a recent graduate of the M.S. Biostatistics program. She also received 
 ![Carly DaCosta](images/Carly_DaCosta.png){width=40%}
 
 Carly is a PhD student in the Epidemiology and Biostatistics program in the Department of Population and Quantitative Health Sciences. She moved to Cleveland two years ago to join Case Western’s Postbaccalaureate Research Education Program (CasePREP), where she conducted a computational research project exploring the genetic components of postpartum depression in African American women. Originally from California, Carly earned her Bachelor’s degree at San Diego State University before relocating to Ohio. Outside of her academic work, she enjoys baking, spending time with her cat Toby, and competing in Olympic Weightlifting.
+
+### Hala Nas {#sec-hala}
+
+![Hala Nas](images/Hala_Nas.png){width=40%}
+
+Hala is a pulmonary and critical care physician at the Cleveland Clinic. Her areas of interest are lung cancer and pleural diseases. She completed her MS in Clinical Research in May of 2024. Her research areas of interest include methodology and guideline synthesis in interventional pulmonary and pleural procedures, as well as large data analysis in lung cancer. In her free time, she enjoys traveling, hiking, reading crime fiction and cooking. 
 
 ### Katherine Papahadjopoulos {#sec-katherine}
 
