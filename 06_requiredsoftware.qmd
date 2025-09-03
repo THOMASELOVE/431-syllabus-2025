@@ -64,7 +64,7 @@ After you've completed steps 1 and 2 above, move on to these tasks:
 If you need more help, you might look at [this terrific resource for Installing R and RStudio](https://stat545.com/install.html) from Jenny Bryan and the STAT 545 project. These are the people responsible for the great [Happy Git with R](http://happygitwithr.com/) project, which will also be worth your time when we are using Git and GitHub.
 
 - If you're having trouble with installation before our first class, don't worry too much. The TAs and Professor Love will be available to help once the class gets going.
-- Once the class starts, if you're having installation problems or problems getting started in R, please consider visiting TA office hours or perhaps asking a question on Campuswire. We want to hear from you!
+- Once the class starts, if you're having installation problems or problems getting started in R, please consider visiting TA office hours. We want to hear from you!
 
 ## Updating Your R Packages
 

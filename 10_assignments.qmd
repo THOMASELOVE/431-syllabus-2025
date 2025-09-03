@@ -36,11 +36,11 @@ Professor Love reserves the right to change the number of minute papers dependin
 We cannot emphasize enough how much we want to hear from you about things that are relevant to this course. 
 
 1. If you're not shy, ask questions during class. Come to the (virtual) TA office hours if you need help.
-2. Contribute to Campuswire with questions, answers and helpful comments. That'll help us recognize you as someone trying to improve their understanding.
-  - If you find **typos** in the materials (code, slides, the Notes, this syllabus) send them to us on Campuswire. 
-  - See a cool visualization online? A nice use of statistical methods or design in a paper? Share them with us on Campuswire.
-3.  Email Professor Love if you want to discuss something that doesn't fit on Campuswire or in a conversation with a TA. Visit with him before or after class. Make an appointment to talk with him if you have something to discuss that doesn't work well in email. 
+2.  Email Professor Love if you want to discuss something that doesn't fit in a conversation with a TA. Visit with him before or after class. Make an appointment to talk with him if you have something to discuss that doesn't work well in email. 
   - It's always helpful if Professor Love knows who you are, and this is an especially difficult thing to achieve with a large class and masks.
+2. Email Professor Love if you have with questions, answers and helpful comments. That'll help us recognize you as someone trying to improve their understanding.
+  - If you find **typos** in the materials (code, slides, the Notes, this syllabus) send them to us via email. 
+  - See a cool visualization online? A nice use of statistical methods or design in a paper? Share them with us via email.
 
 ## Labs
 
@@ -60,7 +60,7 @@ Each lab is associated with a deadline. Late work is permitted, but penalized (s
 
 1. When writing anything for this course in English, use complete sentences, not just bullet points.
 2. Clearly mark each Question in each Lab. There is no need to repeat the question before answering it, although you are welcome to do so.
-3. You are welcome to discuss each Lab with anyone, including Professor Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and Campuswire.
+3. You are welcome to discuss each Lab with anyone, including Professor Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours.
 4. Don't leave anything until the last day. Allow time for computer problems.
 
 ## Quizzes
@@ -79,7 +79,7 @@ You will receive access to the quiz on the Thursday before it is due (the next W
 4. You will have the opportunity to edit your responses after completing the Quiz, but this must be completed by the deadline.
 5. You are welcome (even encouraged) to consult the materials provided on the course website, but you are **not** allowed to discuss the questions on the Quizzes with anyone other than Professor Love or the teaching assistants.
 6. The use of large language models (like ChatGPT) and other AI support not provided in RStudio is not permitted on the Quizzes.
-7. We do not guarantee to answer questions we receive about the Quiz less than 3 hours prior to the Quiz submission deadline. As noted above, we will **not** use Campuswire for Quiz questions, but instead an alternate approach we will provide to you with each quiz.
+7. We do not guarantee to answer questions we receive about the Quiz less than 3 hours prior to the Quiz submission deadline.
 8. Quizzes that are more than an hour late will **not** be accepted, except in truly remarkable circumstances.
 9. An answer sketch for each Quiz will be made available within 48 hours of the deadline. 
 10. Grades for the Quizzes are usually available within 48 hours of the deadline. 
